@@ -1,0 +1,5 @@
+/* Bundled fonts (SIL Open Font License 1.1, see OFL-*.txt) so the game works offline. */
+@font-face { font-family: 'Orbitron'; src: url('Orbitron.ttf') format('truetype'); font-weight: 400 900; font-display: swap; }
+@font-face { font-family: 'Rajdhani'; src: url('Rajdhani-Medium.ttf') format('truetype'); font-weight: 500; font-display: swap; }
+@font-face { font-family: 'Rajdhani'; src: url('Rajdhani-SemiBold.ttf') format('truetype'); font-weight: 600; font-display: swap; }
+@font-face { font-family: 'Rajdhani'; src: url('Rajdhani-Bold.ttf') format('truetype'); font-weight: 700; font-display: swap; }
